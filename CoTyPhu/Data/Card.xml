@@ -1,0 +1,67 @@
+<KhiVan id=0>
+    <NoiDung>Bạn đã nhận được một thẻ ra tù</NoiDung>
+</KhiVan>
+
+<KhiVan id=1>
+    <NoiDung>Bạn trúng vé số được 1 tỷ VND</NoiDung>
+</KhiVan>
+
+<KhiVan id=2>
+    <NoiDung>Bạn được thu mỗi người 20 triệu VND</NoiDung>
+</KhiVan>
+
+<KhiVan id=3>
+    <NoiDung>Bạn phải đi ăn đám cưới, tốn 50 triệu</NoiDung>
+</KhiVan>
+
+<KhiVan id=4>
+    <NoiDung>Bạn chạy xe quá tốc độ; nên đã bị phạt 100 triệu VND</NoiDung>
+</KhiVan>
+
+<KhiVan id=5>
+    <NoiDung>Bạn đụng trúng một con bò lang thang ngoài đường nên phải sửa xe hết 200 triệu VND</NoiDung>
+</KhiVan>
+
+<KhiVan id=6>
+    <NoiDung>Hôm nay là sinh nhật, bạn được tặng 500 triệu VND</NoiDung>
+</KhiVan>
+
+<KhiVan id=7>
+    <NoiDung>Bạn đi đá gà, không may bị cảnh sát bắt được; nên bị vào tù (giam 3 lượt)</NoiDung>
+</KhiVan>
+
+<KhiVan id=8>
+    <NoiDung>Bạn là hộ gia đình khó khăn cấp quốc gia nên được chính phủ tài trợ 500 triệu VND</NoiDung>
+</KhiVan>
+
+<KhiVan id=9>
+    <NoiDung>Bạn đang đi chợ thì hư xe nên được di đến điểm xuất phát mà không được nhận trợ cấp</NoiDung>
+</KhiVan>
+
+<KhiVan id=10>
+    <NoiDung>Bạn bị đau bụng tiêu chảy nên phải tốn 200 triệu tiền viện phí</NoiDung>
+</KhiVan>
+
+<KhiVan id=11>
+    <NoiDung>Bạn bị téc áo dài nên phải đi vá lại ở nhà bà Tư và bã lấy 50 triệu VND</NoiDung>
+</KhiVan>
+
+<KhiVan id=12>
+    <NoiDung>Bạn được lì xì 700 triệu VND</NoiDung>
+</KhiVan>
+
+<CoHoi id=0>
+    <NoiDung>Bạn được thêm một lượt đi</NoiDung>
+</CoHoi>
+
+<CoHoi id=1>
+    <NoiDung>Bạn được nhận tiền lãnh lương 500 triệu VND</NoiDung>
+</CoHoi>
+
+<CoHoi id=2>
+    <NoiDung>Bạn được đến bãi đỗ xe miễn phí</NoiDung>
+</CoHoi>
+
+<CoHoi id=3>
+    <NoiDung>Bạn được quay về điểm xuất phát và nhận tiền trợ cấp</NoiDung>
+</CoHoi>

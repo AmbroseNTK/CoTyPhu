@@ -15,12 +15,15 @@ public class Dice : MonoBehaviour {
 
     public int randValue;
 
+    public bool finish;
+
 	// Use this for initialization
 	void Start () {
         randValue = 1;
         imgDice = GetComponent<Image>();
         animator = panelDice.GetComponent<Animator>();
         imgDice.sprite = dices[Random.Range(0, dices.Count - 1)];
+        finish = false;
 	}
 	
     public void Show()
@@ -32,13 +35,14 @@ public class Dice : MonoBehaviour {
     public void Hide()
     {
         animator.SetBool("isShow", false);
-        GameObject.Find("PanelPlace").GetComponent<PlaceManager>().Show();
+        
     }
 
     
 
     private IEnumerator DoGetDice()
     {
+        finish = false;
         yield return new WaitForSeconds(2);
         int randSeed = Random.Range(10, 20);
         int value = 0;
@@ -53,6 +57,7 @@ public class Dice : MonoBehaviour {
         randValue = value + 1;
         yield return new WaitForSeconds(4);
         Hide();
+        finish = true;
         yield break;
     }
 

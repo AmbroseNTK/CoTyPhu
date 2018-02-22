@@ -11,10 +11,12 @@ class PlayerBehavior : MonoBehaviour
     public double budget;
     private ItemBag bag;
     public int pos = 0;
+    public bool playable;
 
     public void Start()
     {
         bag = new ItemBag();
+       
     }
 
 
